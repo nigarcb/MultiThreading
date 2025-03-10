@@ -1,0 +1,4 @@
+/home/stud-13/NigarCabrayilova/ExampleGit/2025/MultiThreading/cmake-build-debug/CMakeFiles/MultiThreading.dir
+/home/stud-13/NigarCabrayilova/ExampleGit/2025/MultiThreading/cmake-build-debug/CMakeFiles/MultiThreading1.dir
+/home/stud-13/NigarCabrayilova/ExampleGit/2025/MultiThreading/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stud-13/NigarCabrayilova/ExampleGit/2025/MultiThreading/cmake-build-debug/CMakeFiles/rebuild_cache.dir

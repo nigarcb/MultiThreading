@@ -1,0 +1,4 @@
+/home/stud-13/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/stud-13/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/stud-13/NigarCabrayilova/ExampleGit/2025/MultiThreading -B /home/stud-13/NigarCabrayilova/ExampleGit/2025/MultiThreading/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/stud-13/NigarCabrayilova/ExampleGit/2025/MultiThreading/cmake-build-debug
